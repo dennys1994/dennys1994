@@ -15,7 +15,7 @@ Sou um desenvolvedor fullstack freelancer em início de carreira, apaixonado por
 
 
 ## 🔗 Links
-(https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennys-willian-da-silva-887808228/)[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/willian1894)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennys-willian-da-silva-887808228/)[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/willian1894)
 
 ## 🛠 Habilidades
 
