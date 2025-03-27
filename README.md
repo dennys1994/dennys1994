@@ -9,9 +9,19 @@ Sou um desenvolvedor fullstack freelancer em início de carreira, apaixonado por
 
 
 ### 💼 Experiência
-- **Freelancer Fullstack Developer** (11/2023 - Presente)
-  - Desenvolvi diversos projetos para clientes em diferentes setores, utilizando tecnologias como Python, PHP, node.js e MySQL.
-  - Responsável por construir aplicações web escaláveis e responsivas, garantindo alta performance e uma excelente experiência do usuário.
+
+#### 🚀 Desenvolvedor Fullstack na Lotus Squad
+*12/2024 - Presente*  
+- **Criação de soluções completas:** Desenvolvimento de sites, sistemas, automação, assistentes de IA e aplicativos.  
+- **Transformação de design em código:** Conversão de projetos no Figma para implementações web.  
+- **Stack utilizada:** PHP, Python, Laravel, HTML, CSS, JavaScript.  
+- **Projetos destacados:** Páginas institucionais, sistemas com backend (login/senha), integrações via API, documentação, design de banco de dados e arquitetura de sistemas.
+
+#### 🛠️ Freelancer Fullstack Developer
+*11/2023 - 12/2024*  
+- **Desenvolvimento de projetos:** Atuação em projetos para diversos clientes e setores.  
+- **Tecnologias utilizadas:** Python, PHP, Node.js e MySQL.  
+- **Foco em performance:** Construção de aplicações web escaláveis e responsivas para proporcionar alta performance e excelente experiência ao usuário.
 
 
 ## 🔗 Links
